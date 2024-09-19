@@ -5,3 +5,4 @@ gdown==4.7.1
 numpy==1.23.5
 setuptools
 pip>=24.2
+opencv-python
